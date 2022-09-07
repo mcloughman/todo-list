@@ -1,0 +1,17 @@
+.container {
+  margin: 50px auto;
+  width: 500px;
+  background-color: aliceblue;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+.finished {
+  text-decoration: line-through;
+}
+
+.remove {
+  float: right;
+}
